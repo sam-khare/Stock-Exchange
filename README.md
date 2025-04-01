@@ -5,25 +5,20 @@
                 The goal of the mini project is to apply and extend the techniques practiced during the labs, in order to build a prototype of a Cloud application.
                 
                 
-The project has the form of an application, developed in Python and Flask.
+The project is an application developed using Python and Flask.
 
+This mini project focuses on the following key aspects of cloud applications:
 
-The mini project works on the following aspects of Cloud applications:
+RESTful service interface
 
+Integration with external REST services
 
-REST-based service interface.
+Utilization of an external cloud database for data persistence
 
+Support for cloud scalability and deployment in a containerized environment
 
-Interaction with external REST services.
+Security features
 
-
-Use of on an external Cloud database for persisting information.
-
-
-Support for cloud scalability, deployment in a container environment.
-
-
-Security Features.
 
 # What is it? 
 
